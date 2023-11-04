@@ -1,0 +1,26 @@
+body {
+    background-color: #F4FFF8;
+}
+
+.card {
+    text-align: center;
+}
+
+article {
+    text-align: center;
+    margin: auto;
+}
+
+nav {
+    background-color: #31597D;
+}
+
+header {
+    text-align: center;
+    margin: 3em;
+    margin-bottom: 5em;
+}
+
+h1 {
+    margin-bottom: 0.7em;
+}
