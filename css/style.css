@@ -1,9 +1,10 @@
 body {
-    background-color: #F4FFF8;
+    background-color: #404040;
 }
 
 .card {
     text-align: center;
+    border-radius: 15px;
 }
 
 article {
@@ -12,7 +13,8 @@ article {
 }
 
 nav {
-    background-color: #31597D;
+    background-color: #210B2C;
+    color: #70F8BA;
 }
 
 header {
@@ -23,4 +25,6 @@ header {
 
 h1 {
     margin-bottom: 0.7em;
+    text-align: center;
 }
+
