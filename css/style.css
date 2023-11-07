@@ -36,11 +36,7 @@ h2 {
     color: #70f8bba9;
 }
 
-article {
-    font-size: 1.3em;
-    margin: auto 1em;
-    margin-bottom: 2em;
-}
+
 
 .card-text {
     font-size: 1em;
@@ -61,4 +57,9 @@ footer{
     bottom: 0;
     width: 100%;
     padding-top: 0.5em;
+}
+p{
+    font-size: 1.3em;
+    margin: auto 1em;
+    margin-bottom: 2em;
 }
