@@ -45,3 +45,14 @@ article {
 .card-text {
     font-size: 1em;
 }
+footer{
+    background-color: #210B2C;
+}
+.forras{
+    color: #70F8BA;
+    text-align: center;
+    
+}
+.forras a{
+    text-decoration: none;
+}
