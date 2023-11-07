@@ -18,17 +18,30 @@ nav {
     color: #70F8BA;
 }
 
-header {
-    text-align: center;
-    margin: 3em;
-    margin-bottom: 5em;
-}
-
 h1 {
     margin-bottom: 0.7em;
     text-align: center;
 }
 
 h2 {
+    margin-bottom: 1em;
+    font-size: 150%;
+}
+
+.navbar a {
+    color: #70F8BA;
+}
+
+.navbar a:hover {
+    color: #70f8bba9;
+}
+
+article {
+    font-size: 1.3em;
+    margin: auto 1em;
     margin-bottom: 2em;
+}
+
+.card-text {
+    font-size: 1em;
 }
