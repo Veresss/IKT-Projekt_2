@@ -51,8 +51,14 @@ footer{
 .forras{
     color: #70F8BA;
     text-align: center;
-    
+
 }
 .forras a{
     text-decoration: none;
+}
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding-top: 0.5em;
 }
