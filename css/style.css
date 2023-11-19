@@ -76,3 +76,22 @@ p{
     padding: 0.7em 0em;
 }
 
+.Panni main{
+    width: 75%;
+    margin: auto;
+}
+
+.szoveg{
+    padding-top: 5em;
+}
+
+#linuxpingu{
+    width: 80em;
+
+}
+
+.Panni h2{
+    text-align: center;
+    padding: 1em;
+    font-variant: small-caps;
+}
