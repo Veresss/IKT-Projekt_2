@@ -16,6 +16,7 @@ article {
 nav {
     background-color: #210B2C;
     color: #70F8BA;
+    position: sticky;
 }
 
 h1 {
@@ -66,6 +67,7 @@ p{
 .viktor_kepek{
     width: 105%;
     margin-top: 2rem;
+    margin-bottom: 2rem;
 }
 
 .h3_cim{
@@ -82,16 +84,37 @@ p{
 }
 
 .szoveg{
-    padding-top: 5em;
+    padding-top: 2em;
 }
 
 #linuxpingu{
     width: 80em;
+    margin: auto;
+    margin-top: 2em;
+    margin-bottom:2em ;
 
+}
+
+#torvaldspingu{
+    margin-bottom: 3em;
 }
 
 .Panni h2{
     text-align: center;
     padding: 1em;
     font-variant: small-caps;
+}
+
+.Panni iframe{
+    margin: auto;
+    display: block;
+    width: 50em;
+
+}
+.Panni article, .video{
+    padding-bottom: 4em;
+}
+
+footer a{
+    color: #70F8BA;
 }
