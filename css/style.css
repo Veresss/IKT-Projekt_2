@@ -118,3 +118,19 @@ p{
 footer a{
     color: #70F8BA;
 }
+
+.forras li, .forras li a{
+    text-align: center;
+    color: #70F8BA;
+    list-style-type: none;
+    font-size: 2rem;
+    padding: 3rem;
+    margin: 0.5em;
+}
+
+.forras a:hover{
+    text-shadow: #210B2C 3px 3px 3px;
+    border: #210B2C solid 0.1em ;
+    border-radius: 0.5em;
+    box-shadow: #210B2C 0.5em 0.5em 1.5em;
+}
