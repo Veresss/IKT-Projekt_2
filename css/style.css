@@ -110,7 +110,8 @@ p{
 .Panni iframe{
     margin: auto;
     display: block;
-    width: 50em;
+    width: 900px;
+    height: 506px;
 
 }
 .Panni article, .video{
