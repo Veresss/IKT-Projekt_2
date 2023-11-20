@@ -150,3 +150,10 @@ img {
     box-shadow: 3.5px 3.5px 8px black;
     border-radius: 4px;
 }
+table{
+    border: #70F8BA 4px solid;
+}
+td{
+    border: #70F8BA 4px solid;
+    padding: 3em;
+}
