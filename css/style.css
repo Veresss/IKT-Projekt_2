@@ -69,7 +69,7 @@ p{
 }
 .viktor_kepek{
     width: 105%;
-    padding-bottom: 2em;
+    margin-bottom: 2em;
 }
 
 .h3_cim{
@@ -98,7 +98,7 @@ p{
     font-variant: small-caps;
 }
 
-.Panni iframe{
+iframe{
     margin: auto;
     display: block;
     width: 900px;
@@ -132,4 +132,10 @@ footer a{
 
 .btn {
     width: 10em;
+}
+
+img {
+    display: block;
+    box-shadow: 3.5px 3.5px 8px black;
+    border-radius: 4px;
 }
