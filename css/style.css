@@ -6,6 +6,8 @@ body {
 .card {
     text-align: center;
     border-radius: 15px;
+    height: 40em;
+    margin-bottom: 3em;
 }
 
 article {
@@ -63,12 +65,10 @@ p{
     font-size: 1.3em;
     margin: auto 1em;
     margin-bottom: 2em;
+    text-align: justify;
 }
 .viktor_kepek{
     width: 105%;
-    margin-top: 2rem;
-    margin-bottom: 2rem;
-    padding-top: 1em;
     padding-bottom: 2em;
 }
 
@@ -78,11 +78,6 @@ p{
 }
 .row{
     padding: 0.7em 0em;
-}
-
-.Panni main{
-    width: 75%;
-    margin: auto;
 }
 
 .szoveg{
@@ -95,10 +90,6 @@ p{
     margin-top: 2em;
     margin-bottom:2em ;
 
-}
-
-#torvaldspingu{
-    margin-bottom: 3em;
 }
 
 .Panni h2{
@@ -137,4 +128,8 @@ footer a{
     border-radius: 0.5em;
     box-shadow: #210B2C 0.5em 0.5em 1.5em;
     background-color: rgba(33, 11, 44, 0.6);
+}
+
+.btn {
+    width: 10em;
 }
