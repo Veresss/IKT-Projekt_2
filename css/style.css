@@ -139,3 +139,12 @@ img {
     box-shadow: 3.5px 3.5px 8px black;
     border-radius: 4px;
 }
+
+.card img{
+    box-shadow: none;
+}
+
+.card{
+    box-shadow: 3.5px 3.5px 8px black;
+    border-radius: 4px;
+}
