@@ -76,6 +76,7 @@ p{
 .h3_cim{
     text-align: center;
     padding: 1em 0em;
+    text-transform: uppercase;
 }
 .row{
     padding: 0.7em 0em;
