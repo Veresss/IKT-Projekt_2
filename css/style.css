@@ -164,3 +164,27 @@ td{
             width: 700px
         }
 }
+
+@media screen and (max-width:768px) {
+    iframe{
+        width: 500px
+    }
+}
+
+@media screen and (max-width:576px) {
+    iframe{
+        width: 300px
+    }
+}
+
+@media screen and (max-width:1200px) {
+    iframe{
+        width: 700px
+    }
+}
+
+@media screen and (max-width:1400px) {
+    iframe{
+        width: 700px
+    }
+}
