@@ -153,6 +153,7 @@ img {
 }
 table{
     border: #70F8BA 4px solid;
+    margin-bottom: 4em;
 }
 td{
     border: #70F8BA 4px solid;
@@ -160,30 +161,6 @@ td{
 }
 
 @media screen and (max-width:992px) {
-        iframe{
-            width: 700px
-        }
-}
-
-@media screen and (max-width:768px) {
-    iframe{
-        width: 500px
-    }
-}
-
-@media screen and (max-width:576px) {
-    iframe{
-        width: 300px
-    }
-}
-
-@media screen and (max-width:1200px) {
-    iframe{
-        width: 700px
-    }
-}
-
-@media screen and (max-width:1400px) {
     iframe{
         width: 700px
     }
