@@ -2,12 +2,13 @@ body {
     background-color: #404040;
     color: white;
     padding-bottom: 2em;
+    margin: auto;
 }
 
 .card {
     text-align: center;
     border-radius: 15px;
-    height: 40em;
+    height: 100%;
     margin-bottom: 3em;
 }
 
@@ -103,7 +104,7 @@ p{
 iframe{
     margin: auto;
     display: block;
-
+    width: 900px;
     height: 506px;
 
 }
@@ -160,12 +161,36 @@ td{
     padding: 3em;
 }
 
-@media screen and (max-width:992px) {
+/* @media screen and (max-width:992px) {
     iframe{
         width: 700px
     }
 }
+@media screen and (max-width:576px) {
+    iframe{
+        width: 200px
+    }
+}
+
+@media screen and (max-width:768px) {
+    iframe{
+        width: 500px
+    }
+}
+@media screen and (max-width:1400px) {
+    iframe{
+        width: 700px
+    }
+}
+@media screen and (max-width:575px) {
+    iframe{
+        width: 300px
+    }
+} */
 
 h5{
     font-size: 70%;
+}
+.fooldal{
+    padding-bottom: 4em;
 }
