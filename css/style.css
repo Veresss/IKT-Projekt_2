@@ -152,8 +152,13 @@ img {
 }
 table{
     border: #70F8BA 4px solid;
+    margin-bottom: 4em;
 }
 td{
     border: #70F8BA 4px solid;
     padding: 3em;
+}
+
+h5 {
+    font-size: 70%;
 }
