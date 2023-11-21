@@ -2,6 +2,7 @@ body {
     background-color: #404040;
     color: white;
     padding-bottom: 2em;
+    margin: auto;
 }
 
 .card {
@@ -160,7 +161,7 @@ td{
     padding: 3em;
 }
 
-@media screen and (max-width:992px) {
+/* @media screen and (max-width:992px) {
     iframe{
         width: 700px
     }
@@ -183,9 +184,9 @@ td{
 }
 @media screen and (max-width:575px) {
     iframe{
-        width: 100px
+        width: 300px
     }
-}
+} */
 
 h5{
     font-size: 70%;
