@@ -140,6 +140,8 @@ footer a{
 
 .btn {
     width: 10em;
+    background-color: #254441 ;
+    border: #404040 solid 1px;
 }
 
 img {
