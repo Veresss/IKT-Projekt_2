@@ -61,7 +61,7 @@ footer{
     position: fixed;
     bottom: 0;
     width: 100%;
-    padding-top: 0.5em;
+    padding-top: 0.2em;
 }
 p{
     font-size: 1.3em;
@@ -193,4 +193,8 @@ h5{
 }
 .fooldal{
     padding-bottom: 4em;
+}
+
+h3 a{
+    font-size: 70%;
 }
